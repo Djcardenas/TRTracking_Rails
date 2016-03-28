@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Idtracker: MyText
+  Latitud: MyText
+  Longitud: MyText
+  Datetime: 2016-03-26 12:43:33
+
+two:
+  Idtracker: MyText
+  Latitud: MyText
+  Longitud: MyText
+  Datetime: 2016-03-26 12:43:33
